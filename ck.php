@@ -8,7 +8,7 @@ $urls=$_GET['url'];
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
 <title>CKX1</title>
 <style type="text/css">body,html,.video{background-color:#000;padding: 0;margin: 0;width:100%;height:100%;}</style>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/s7webroot/000@main/ckplayer/ckplayer.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/kb000tv/000@main/ckplayer/ckplayer.min.js"></script>
 </head>
 <body ondragstart="window.event.returnValue=false" oncontextmenu="window.event.returnValue=false" onselectstart="event.returnValue=false" style="overflow-y:hidden;">
 <div id="video"></div>
